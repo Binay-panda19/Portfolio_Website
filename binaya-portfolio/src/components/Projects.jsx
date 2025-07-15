@@ -1,18 +1,18 @@
 const projects = [
   {
-    title: "CineSync",
-    description: "A movie syncing platform built using the MERN stack, enabling friends to watch movies together in real time.",
-    link: "https://github.com/binaya123/cinesync",
+    title: "VideoTube",
+    description: "A video streaming platform similar to YouTube, built with MERN stack technologies.",
+    link: "https://github.com/Binay-panda19/backend_project.git",
   },
   {
     title: "Snyder’s Cut",
     description: "An AI-powered app that scans your face and suggests the best hairstyle using ML and web tech.",
-    link: "https://github.com/binaya123/snyders-cut",
+    link: "https://github.com/Binay-panda19/Snyder-s-Cut.git",
   },
   {
-    title: "Portfolio Website",
-    description: "This personal portfolio built using React and Tailwind, showcasing my projects and skills.",
-    link: "https://github.com/binaya123/portfolio",
+    title: "Wander Lust",
+    description: "A travel website that allows users to explore and book travel packages, featuring a user-friendly interface.",
+    link: "https://github.com/Binay-panda19/MAJORPROJECT.git",
   },
 ];
 
