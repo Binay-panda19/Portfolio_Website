@@ -15,7 +15,7 @@ export default function Hero() {
         A passionate Full Stack Developer skilled in MERN stack & DevOps.
       </p>
       <a
-        href="/resume.pdf"
+        href="C:\Users\LENOVO\OneDrive\Desktop\CLASSROOM\PROJECTS\PORTFOLIO WEBSITE\binaya-portfolio\Resume.pdf"
         className="mt-6 inline-block px-6 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
         download
       >
